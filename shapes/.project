@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>shapes</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Shape.java</name>
+			<type>1</type>
+			<location>C:/Users/Victor Nascimento/Dropbox/Materias EUA/CSE-468 Q&amp;S/HW/HW5/Shape.java</location>
+		</link>
+		<link>
+			<name>src/Square.java</name>
+			<type>1</type>
+			<location>C:/Users/Victor Nascimento/Dropbox/Materias EUA/CSE-468 Q&amp;S/HW/HW5/Square.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
