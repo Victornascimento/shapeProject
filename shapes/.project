@@ -16,12 +16,12 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/Shape.java</name>
+			<name>src/shapes/Shape.java</name>
 			<type>1</type>
 			<location>C:/Users/Victor Nascimento/Dropbox/Materias EUA/CSE-468 Q&amp;S/HW/HW5/Shape.java</location>
 		</link>
 		<link>
-			<name>src/Square.java</name>
+			<name>src/shapes/Square.java</name>
 			<type>1</type>
 			<location>C:/Users/Victor Nascimento/Dropbox/Materias EUA/CSE-468 Q&amp;S/HW/HW5/Square.java</location>
 		</link>
